@@ -1,0 +1,3 @@
+https://geoportal.statistics.gov.uk/datasets/ons::output-areas-december-2021-boundaries-full-extent-ew-bfe
+https://geoportal.statistics.gov.uk/datasets/ons::output-areas-december-2021-boundaries-full-clipped-ew-bfc-2
+https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=2021
